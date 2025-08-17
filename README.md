@@ -15,15 +15,15 @@
 
 ### 2. 安装依赖
 
-    ```bash
-    pip install pandas
-    ```
+```bash
+pip install pandas
+```
 
 ### 3. 运行脚本
 
-    ```bash
-    python main.py
-    ```
+```bash
+python main.py
+```
 
 脚本运行结束后，会在当前目录生成 `output.csv` 文件。
 
